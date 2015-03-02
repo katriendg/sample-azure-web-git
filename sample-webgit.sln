@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-webgit", "sample-webgit\sample-webgit.csproj", "{F27E9737-EA94-479A-888A-FC3CCC548042}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-Job", "Sample-Job\Sample-Job.csproj", "{6C9937D3-BEDF-4A11-AFA9-CD8ADCCAA969}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F27E9737-EA94-479A-888A-FC3CCC548042}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F27E9737-EA94-479A-888A-FC3CCC548042}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F27E9737-EA94-479A-888A-FC3CCC548042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9937D3-BEDF-4A11-AFA9-CD8ADCCAA969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9937D3-BEDF-4A11-AFA9-CD8ADCCAA969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9937D3-BEDF-4A11-AFA9-CD8ADCCAA969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9937D3-BEDF-4A11-AFA9-CD8ADCCAA969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
