@@ -10,13 +10,14 @@ namespace sample_webgit.Controllers
     {
         public ActionResult Index()
         {
+            System.Diagnostics.Trace.TraceWarning("This is a Trace Warning from /Index controller");
             return View();
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
+            System.Diagnostics.Trace.TraceInformation("We are tracing something on the /About controller");
             return View();
         }
 
