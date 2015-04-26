@@ -10,7 +10,7 @@ namespace sample_webgit.Controllers
     {
         public ActionResult Index()
         {
-            System.Diagnostics.Trace.TraceWarning("This is a Trace Warning from /Index controller");
+            System.Diagnostics.Trace.TraceWarning("This is a Trace Warning from /Index controller.");
             return View();
         }
 

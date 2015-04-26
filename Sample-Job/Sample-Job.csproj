@@ -80,6 +80,7 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\sample-webgit__abtestingslot.pubxml" />
     <None Include="Properties\webjob-publish-settings.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
